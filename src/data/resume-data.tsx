@@ -28,7 +28,7 @@ import {
       "Intensive Care doctor with design and digital skills ",
     summary:
       "As an ICU doctor with a flair for design and digital innovation, I've been at the forefront of transforming clinical care through exciting local and regional projects. My approach is a unique blend of creative design thinking and deep clinical expertise, with a special focus on digital systems and educational methodologies. I thrive on turning groundbreaking ideas into practical, everyday solutions in the healthcare setting. This combination of skills makes me an ideal fit for forward-thinking groups eager to merge top-notch healthcare with the latest in technological advancements, all in a way that's both practical and refreshingly innovative.",
-    avatarUrl: "https://avatars.githubusercontent.com/u/3170041?v=4",
+    avatarUrl: "https://avatars.githubusercontent.com/u/158358968?v=4",
     personalWebsiteUrl: "https://drmcentee.com",
     contact: {
       email: "j.mcentee@nhs.net",
