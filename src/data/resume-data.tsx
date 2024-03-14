@@ -196,6 +196,17 @@ import {
           label: "Magill",
           href: "https://www.magillsymposium.co.uk/",
        },
-      },        
+      },  
+      {
+        title: "CWplus Horizon Fellow",
+        techStack: ["Digital", "Fellowship", "Leader"],
+        description:
+          "A year long program run in tandem with clinical duties, focussing on leadership, digital skills and innovation",
+        logo: Minimal,
+        link: {
+          label: "CW+",
+          href: "https://www.cwplus.org.uk/horizonfellowship/",
+       },
+      },  
     ],
   } as const;
